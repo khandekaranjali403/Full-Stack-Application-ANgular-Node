@@ -1,4 +1,4 @@
-# Angular 10 Node.js MySQL CRUD example
+# Angular+Node.js MySQL CRUD example
 
 In this tutorial, I will show you how to build a full-stack (Angular 10 + Node.js + Express + MySQL) example with a CRUD Application. The back-end server uses Node.js + Express for REST APIs, front-end side is an Angular App with HTTPClient.
 
